@@ -55,7 +55,10 @@ sunny,80.0,75.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+Training Data Set -> Employee Table
 ![exp 1a](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/a5b032ea-6b04-4a39-9f8a-922497821f1f)
+
+Training Data Set-> Weather Table
 ![ex 1b](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/efedb4c0-5a90-4359-833a-1dcecb8864b8)
 
 
@@ -80,6 +83,14 @@ sunny,80.0,75.0,false,yes
 
 ### OUTPUT:
 
+Employee Table after adding new attribute ADDRESS:
+
+![exp 1d add](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/7e35060f-de09-4db4-b259-7f12ccf038c1)
+
+Weather Table after adding new attribute CLIMATE:
+
+![exp 1c add](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/2a201e44-914d-46a2-9b5f-c9929d6f6d7f)
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -95,6 +106,11 @@ sunny,80.0,75.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+
+![exp 1c remove](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/a1d7db8f-4ee2-42fd-98b2-7c28495ff580)
+
+![exp 1d remove](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/c963a374-d6d5-4dfc-8a38-90c5bbcc3e5b)
+
 
 ### Normalize -> Pre-Processing Technique:
 
