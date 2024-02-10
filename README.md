@@ -10,19 +10,20 @@
 --------------
 Employee Data
 ---------------
-@relation employee
-@attribute name {x,y,z,a,b}
+@relation employee 
+@attribute name {zoe,luna,viki,suki,gigi} 
 @attribute id numeric
-@attribute salary {low,medium,high}
+@attribute salary {low,medium,high} 
 @attribute exp numeric
-@attribute gender {male,female}
+@attribute gender {male,female} 
 @attribute phone numeric
+
 @data
-x,101,low,2,male,250311
-y,102,high,3,female,251665
-z,103,medium,1,male,240238
-a,104,low,5,female,200200
-b,105,high,2,male,240240
+zoe,111,low,5,male,124535 
+luna,122,high,4,female,512546 
+viki,133,medium,6,male,37123 
+suki,144,low,2,female,210345 
+gigi,155,high,4,male,501245
 
 --------------
 Weather Data
@@ -53,6 +54,7 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+![exp 1a](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/a5b032ea-6b04-4a39-9f8a-922497821f1f)
 
 
 
