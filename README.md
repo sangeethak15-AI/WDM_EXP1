@@ -30,21 +30,22 @@ Weather Data
 ---------------
 @relation weather
 @attribute outlook {sunny,rainy,overcast}
-@attribute temparature numeric
+@attribute temparature numeric 
 @attribute humidity numeric
-@attribute windy {true,false}
+@attribute windy {true,false} 
 @attribute play {yes,no}
-@data
-sunny,85.0,85.0,false,no
-overcast,80.0,90.0,true,no
-sunny,83.0,86.0,false,yes
-rainy,70.0,86.0,false,yes
-rainy,68.0,80.0,false,yes
-rainy,65.0,70.0,true,no
-overcast,64.0,65.0,false,yes
-sunny,72.0,95.0,true,no
-sunny,69.0,70.0,false,yes
-rainy,75.0,80.0,false,yes
+
+@data 
+rainy,65.0,70.0,false,no 
+sunny,80.0,86.0,true,yes 
+overcast,63.0,66.0,false,no 
+sunny,80.0,76.0,false,no 
+sunny,85.0,70.0,false,no 
+overcast,65.0,65.0,true,yes 
+rainy,64.0,75.0,false,no 
+overcast,72.0,65.0,true,yes 
+overcast,75.0,70.0,false,yes 
+sunny,80.0,75.0,false,yes
 ```
 3) After that the file is saved with .arff file format.
 4) Minimize the arff file and then open Start -> Programs -> weka-3-4.
@@ -55,6 +56,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ![exp 1a](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/a5b032ea-6b04-4a39-9f8a-922497821f1f)
+![ex 1b](https://github.com/sangeethak15-AI/WDM_EXP1/assets/93992063/efedb4c0-5a90-4359-833a-1dcecb8864b8)
 
 
 
